@@ -1,0 +1,17 @@
+{
+  "name": "interview-day-2-t",
+  "version": "1.0.0",
+  "description": "Qus1:\r <h1> What are the different types of HTTP requests?</h1>\r HTTP Stand for \"Hyper Text Transfer Protocol\" which specifies a collection of request methods to specify what action is to be performed on a particular resource.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
